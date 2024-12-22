@@ -1,0 +1,2 @@
+car = ["Tesla","BYD","Mercedec-Benz","BMW","Audi","Volkswagen"]
+print(car[0:4])
